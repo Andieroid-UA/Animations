@@ -37,13 +37,29 @@ Make sure you use the same property names in things, otherwise it WONT WORK!
 ***********************************
 ## Transition Phases
 
+We now made the shrink square into a circle!
+
 ## The "void" State
+
+![Alt text](image-1.png)
+
+Element in an "and" state, and was not initially added to the DOM
+
+You can put it as the transition to state too, on other side of the arrow
+
+The "in" state is a dummy name, you can make it/name it anything
 
 ## Using Keyframes for Animations
 
+![Alt text](image-2.png)
+
 ## Grouping Transitions
 
+
+
 ## Using Animation Callbacks
+
+
 
 
 ***********************************
